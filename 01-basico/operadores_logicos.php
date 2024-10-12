@@ -34,3 +34,13 @@ var_dump($valor == 5 || 9>3);
 echo"<br>";
 var_dump($valor == 5 || 1>3); 
 echo"<br>";
+
+/**
+ * ------------------------- table de operador NOT
+ * expresion                                 resultado 
+ * false                                   true
+ * true                                    false
+ * 
+ */
+
+ var_dump(!($valor >= $valor2));

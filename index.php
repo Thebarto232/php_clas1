@@ -9,6 +9,11 @@
 <a href="01-basico/referencia.php">referencia</a>
 <a href="01-basico/operadores_comparacion.php">operadores_comparacion</a>
 <a href="01-basico/operadores_logicos.php">operadores_logicos</a>
+<a href="01-basico/incremento_decremetno.php">incremento_decremento</a>
+<a href="01-basico/condicionales_simples.php">condicionales_simples</a>
+<a href="01-basico/condicionales_doble.php">condicionales_dobles</a>
+<a href="01-basico/condicionales_anidados.php">condicionales_anidados</a>
+<a href="01-basico/switch.php">switch</a>
 
 <!-- tipos de datos php
  1 booleanos (bolean)
