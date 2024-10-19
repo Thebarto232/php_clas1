@@ -14,6 +14,9 @@
 <a href="01-basico/condicionales_doble.php">condicionales_dobles</a>
 <a href="01-basico/condicionales_anidados.php">condicionales_anidados</a>
 <a href="01-basico/switch.php">switch</a>
+<a href="01-basico/while.php">while</a>
+<a href="01-basico/formulario.php">formulario</a>
+<a href="01-basico/formu2.php">formu2</a>
 
 <!-- tipos de datos php
  1 booleanos (bolean)

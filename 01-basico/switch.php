@@ -47,3 +47,4 @@ if ($edad>=18) {
         echo "menor de edad";
     }
   }
+  
